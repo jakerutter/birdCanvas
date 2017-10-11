@@ -1,0 +1,21 @@
+
+
+body {
+    display: inline-block;
+    text-align: center;
+    margin: auto;
+}
+
+#firstCanvas {
+    border: 1px solid black;
+}
+ 
+html,body{
+    display: inline-block;
+    margin: auto;
+    padding: auto;
+}
+
+canvas {
+    display: inline-block;
+}

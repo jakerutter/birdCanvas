@@ -1,2 +1,1 @@
-# birdCanvas
-Practicing canvas with js
+**Canvas** practice.

@@ -1,0 +1,10 @@
+Regarding Canvas:
+
+1. Create a collection of shapes that shapes can be selected from when draw() is called.
+2. Decide how the colors will progress and scale. 
+    a. As properties of the shapes that are called.
+    b. As continuations of the previous series of colors.
+3. Add other event handlers like right click, mousewheel, dbl click to all do different things.
+4. Add more sounds and decide when they will change.
+	a. Change sound when theme changes
+5.	
